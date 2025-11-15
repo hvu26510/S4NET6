@@ -1,0 +1,6 @@
+@S4NET6_HostAddress = http://localhost:5286
+
+GET {{S4NET6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
